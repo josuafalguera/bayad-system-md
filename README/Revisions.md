@@ -10,6 +10,7 @@ Transaqtiq is an innovative mobile software solution designed to meet the unique
 |--|--|--|--|--|
 |2024-02-06|v1.0.0|First document version|BS.010.000|Dela Cruz, Shanmykel<br>*Project Manager*|
 |2024-02-07|v1.0.0|Partial completion of design specs|BS.010.000|Dela Cruz, Shanmykel<br>*Project Manager*|
+|2024-03-03|v1.0.1|Change in design specs: Login|BS.010.001|Dela Cruz, Shanmykel<br>*Project Manager*|
 
 ---
 
